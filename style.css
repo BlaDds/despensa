@@ -15,7 +15,7 @@ header{
 
 header .calle{
 	margin-left: 1%;
-	font-size: 1.4em;
+	font-size: 2em;
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -24,7 +24,7 @@ header .calle{
 
 header .barrio{
 	margin-right: 1%;
-	font-size: 1.4em;
+	font-size: 2em;
 	position: absolute;
 	right: 0;
 	top: 0;
